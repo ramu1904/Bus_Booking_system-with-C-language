@@ -2,10 +2,10 @@
 An online bus booking system implemented in C, allowing users to easily search for available buses, book tickets, and manage their reservations.   
 
 # Features
-Bus search and availability
-Ticket booking and reservation management
-User-friendly command-line interface
-Seat selection and payment processing
+1. Bus search and availability
+2. Ticket booking and reservation management
+3. User-friendly command-line interface
+4. Seat selection and payment processing
 
 # Usage
 1. Launch the program and follow the on-screen instructions.
