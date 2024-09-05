@@ -7,10 +7,14 @@ Ticket booking and reservation management
 User-friendly command-line interface
 Seat selection and payment processing
 
-#Usage
+# Usage
 Launch the program and follow the on-screen instructions.
 Search for available buses, select seats, and proceed to book tickets.
 Implementation Details
 Written in C programming language
 Data structures used (e.g., arrays, files) and their purpose
 Key algorithms or logic for bus search, ticket booking, etc.
+
+Feel free to reach out with any questions or suggestions:
+
+Email: ramudev1904web@gmail.com
